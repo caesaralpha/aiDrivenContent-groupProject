@@ -19,8 +19,7 @@ To generate the script, use the following template to create the scenes, visuals
 ```markdown
 ### Script Request Example:
 > "Give me a script of the history of [insert user preference, e.g., dance] for a 2-minute video. It contains scenes, visuals, and a voiceover script. For the visuals, embed well-known artists or characters with a funny/comedy vibe. Breakdown the visuals into multiple image generation prompts for an LLM which at the end can be compiled into a short scene. Provide both positive and negative prompts."
-
-### Script JSON Format:
+Follow this json format:
 
 ```json
 {
