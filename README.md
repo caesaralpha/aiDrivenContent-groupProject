@@ -84,4 +84,3 @@ To generate the script, use the following template to create the scenes, visuals
 - Fine-tune image generation prompts to ensure the visual consistency across scenes.
 ```
 
-This structure should be easy to follow and implement in a GitHub repository, providing clear steps and examples for users.
