@@ -1,4 +1,4 @@
-```markdown
+
 # Project Overview
 
 This project involves creating a short 2-minute video using GenAI tools for script, image, voice, and music generation. The project integrates various AI-based technologies to create a seamless workflow from script generation to final video production.
@@ -16,7 +16,7 @@ This project involves creating a short 2-minute video using GenAI tools for scri
 ## Detail Steps for Generate Script
 
 To generate the script, use the following template to create the scenes, visuals, and voiceover scripts. This ensures each part of the scene (e.g., positive and negative prompts) is ready for image generation and can be assembled into a short scene.
-
+```markdown
 ### Script Request Example:
 > "Give me a script of the history of [insert user preference, e.g., dance] for a 2-minute video. It contains scenes, visuals, and a voiceover script. For the visuals, embed well-known artists or characters with a funny/comedy vibe. Breakdown the visuals into multiple image generation prompts for an LLM which at the end can be compiled into a short scene. Provide both positive and negative prompts."
 
